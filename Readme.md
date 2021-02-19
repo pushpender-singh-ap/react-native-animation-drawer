@@ -1,5 +1,7 @@
 # React-native-animation-drawer
 
+<a href="url"><img src="https://user-images.githubusercontent.com/73298854/108520531-cd7a6480-72f0-11eb-84c8-d6911f129fec.gif" height="600" width="300" ></a>
+
 ## How To Use
   - git clone https://github.com/pushpender-singh-ap/react-native-animation-drawer.git 
   - cd react-native-animation-drawer
